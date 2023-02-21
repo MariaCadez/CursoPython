@@ -5,6 +5,7 @@ Dia1
   - Trabajar con varios tipos de datos en Python
   - Convertir los datos de un tipo a otro
   - Usar expresiones y variables para realizar operaciones
+  
   M4_Maria - 02 - Python Notebook
   - Variables y tipos
   - Listas
@@ -24,6 +25,7 @@ Dia1
     - Avanzado para iteradores
     - Funciones lambda
     - Funciones map, filter y reduce
+    
   M4_Maria - 03 - Condicionales
     - Condicionales
     - Operadores de comparación
