@@ -1,5 +1,6 @@
 # CursoPython
 Dia1
+
   M4_Maria - 01 - Python Notebook
   - Escribir código básico en Python
   - Trabajar con varios tipos de datos en Python
@@ -34,3 +35,34 @@ Dia1
       - Flujo de personajes Marve
       - Año bisiesto
       - Palíndromo
+          
+  M4_Maria - 05 - Funciones
+    - Funciones
+    - Argumentos y parámetros
+    - Especificar parámetros con valores por defecto
+    - Reunir/Desplegar argumentos posicionales
+    - Documentación
+    - Las funciones también son objetos
+    - Variables globales
+    - Ejercicios de Funciones
+          
+  M4_Maria - 06 - Bucles
+    - Bucles
+    - Repetir con while
+    - Bucle Infinito
+    - Continuar un bucle
+    - Iterar con for
+    - Generar secuencias de números
+    - Bucles anidados
+    - Cuestionario sobre Bucles
+    - Ejercicio: Fibonacci
+
+  M4_Maria - ETL
+    - Ejercicio ETL
+    - Obtención de datos
+    - Extraer CSVs en DataFrame
+    - Modificar DataFrames
+    - Agrupar Independent 100 por Restaurant
+    - Juntar Future50 e Ind100 por localización
+    - Cargar DataFrames en la Base de Datos
+    - Confirmar que los datos han sido añadidos consultando la tabla Top150
