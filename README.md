@@ -66,3 +66,31 @@ Dia1
     - Juntar Future50 e Ind100 por localización
     - Cargar DataFrames en la Base de Datos
     - Confirmar que los datos han sido añadidos consultando la tabla Top150
+    
+   M4 - Maria - 10 - Pandas
+   - Ejercicio 1
+   - Ejercicio 2
+   - Ejercicio 3
+   - Ejercicio 4
+   - Ejercicio 5
+   - Ejercicio 6
+   - Ejercicio 7
+   - Ejercicio 8
+   - Ejercicio 9
+   - Ejercicio 10 (Opcional)
+   - Ejercicio 11
+   - Ejercicio 12
+   - Ejercicio 13
+   - Recorrer un df
+   - Ejercicio 14 (Opcional)
+   - Ejercicio 15
+   - Ejercicio 16
+ 
+   Maria__Prophet - Predecir el valor de Disney
+   - Prophet - Predecir el valor de Bitcoin
+ 
+   SpaceX__Maria - 1 - Data Collection Api v2
+   - Etapa 1: Obtencion de datos
+   - Parte 1: Obtén los datos mediante peticiones GET y crea un dataframe
+   - Parte 2: Filtra el dataframe para que solo incluya los lanzamientos de falcon 9
+   - Parte 3: Ajustes finales
